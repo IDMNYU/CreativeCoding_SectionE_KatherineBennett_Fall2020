@@ -27,10 +27,10 @@
 </tr>
 <tr>
 	<td valign="top"> 3 </td>
-	<td valign="top"><a href="week_3_detail.md">Feb 10</a><br><strong>Motion<br>Random<br>Functions<br>Print Statements<br>
+	<td valign="top"><a href="week_3_detail.md">Sept 21</a><br><strong>Motion<br>Random<br>Functions<br>Print Statements<br>
 	Show & Tell<br></strong>
 	</td>
-	<td valign="top"><a href="week_3_detail.md">Feb 12</a><br>DeBugger + Loops (review)<br>
+	<td valign="top"><a href="week_3_detail.md">Sept 23</a><br>DeBugger + Loops (review)<br>
 	Matrix Transformations <br>In-Class challenge<br>
 	Functions II <br>
 	Intro to P5 <br>
@@ -39,89 +39,82 @@
 
 <tr>
 	<td>4</td>
-	<td valign="top"><a href="week_4_detail.md">Feb 17</a><br><strong>No Classes <br> President's Day</strong>
+	<td valign="top"><a href="week_4_detail.md">Sept 28</a><br><strong>Asynchrous & Remote <br> </strong>
 	</td>
-	<td valign="top"><a href="week_4_detail.md">Feb 19</a><br><strong>Functions + passing parameters<br>Show & Tell<br></strong>
+	<td valign="top"><a href="week_4_detail.md">Sept 30</a><br><strong>Asynchrous & Remote <br> Functions + passing parameters<br>Show & Tell<br></strong>
 	</td>
 </tr>
 <tr>
 	<td>5</td>
-	<td valign="top"><a href="week_5_detail.md">Feb 24</a><br>	<strong>Object Orientated Programming <br>Methods <br>Show & Tell <br></strong>
-	<td valign="top"><a href="week_5_detail.md">Feb 26</a><br>
+	<td valign="top"><a href="week_5_detail.md">Oct 5</a><br>	<strong>Object Orientated Programming <br>Methods <br>Show & Tell <br></strong>
+	<td valign="top"><a href="week_5_detail.md">Oct 7</a><br>
 		<strong>Object Orientated Programming <br>Passing Parameters <br>In-class Challenge <br></strong>
 	</td>
 </tr>
 <tr>
 	<td> 6 </td>
-	<td valign="top"><a href="week_6_detail.md">March 2</a><br><strong>Vectors<br></strong></td>
-	<td valign="top"><a href="week_6_detail.md">March 4</a><br><strong>Vectors </strong></td>
+	<td valign="top"><a href="week_6_detail.md">Oct 12</a><br><strong>Vectors<br></strong></td>
+	<td valign="top"><a href="week_6_detail.md">Oct 14</a><br><strong>Vectors </strong></td>
 </tr>
 <tr>
 	<td> 7 </td>
-	<td valign="top"><a href="week_7_detail.md">March 9</a><br><strong> **MidTerm** <br>Project 1 Presentations <br></strong>
+	<td valign="top"><a href="week_7_detail.md">Oct 19</a><br><strong> **MidTerm** <br>Project 1 Presentations <br></strong>
 	</td>
-	<td valign = "top"> <a href="week_7_detail.md">March 11</a><br><strong>**MidTerm** <br>Project 1 Presentations <br>
+	<td valign = "top"> <a href="week_7_detail.md">Oct 21</a><br><strong>**MidTerm** <br>Project 1 Presentations <br>
 	</strong>
 	</td>
 </tr>
-<tr> <td> </td>
-	<td valign="top">  <br> <strong> SPRING BREAK </strong> </td>
-</tr>
 <td>8</td>
-	<td valign="top"><a href="week_8_detail.md">March 23</a><br><strong>Vectors + Forces<br>Show & Tell <br></strong>	</td>
-	<td valign="top"><a href="week_8_detail.md">March 25</a><br><strong>Vectors + Steering <br> Images (introduction)<br>In-class Challenge <br></strong>
+	<td valign="top"><a href="week_8_detail.md">Oct 26</a><br><strong>Vectors + Forces<br>Show & Tell <br></strong>	</td>
+	<td valign="top"><a href="week_8_detail.md">Oct 28</a><br><strong>Vectors + Steering <br> Images (introduction)<br>In-class Challenge <br></strong>
 	</td>
 </tr>
 <tr>
 	<td> 9 </td>
-	<td valign="top"><a href="week_9_detail.md">March 30</a><br><strong>Images + Pixel Manipulations</strong> <br>
+	<td valign="top"><a href="week_9_detail.md">Nov 2</a><br><strong>Images + Pixel Manipulations</strong> <br>
 		<a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
 	</td>
-	<td valign="top"><a href="week_9_detail.md">April 1</a><br><strong>Text & String Manipulations	<br>Show & Tell <br></strong><br><a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
+	<td valign="top"><a href="week_9_detail.md">Nov 4</a><br><strong>Text & String Manipulations	<br>Show & Tell <br></strong><br><a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
 	</td>
 </tr>
 <tr>
 	<td>10</td>
-	<td valign="top"> April 6<br><a href = "RoundTable.md"> Roundtable for Final Projects</a> <br>
+	<td valign="top"> Nov 9<br><a href = "RoundTable.md"> Roundtable for Final Projects</a> <br>
 	</td>
-	<td valign="top">April 8<br><strong><a href = "RoundTable.md">Roundtable for Final Projects 	</a> </strong>
+	<td valign="top">Nov 11<br><strong><a href = "RoundTable.md">Roundtable for Final Projects 	</a> </strong>
 	</td>	
 </tr>
 <tr>
 	<td>11</td>
-	<td valign="top">April 13<br><strong>Working with API's</strong>	
+	<td valign="top">Nov 16<br><strong>Working with API's</strong>	
 	</td>
-	<td valign="top">April 15<br><strong>Physical Computing<br>Show & Tell <br></strong>
+	<td valign="top">Nov 18<br><strong>Physical Computing<br>Show & Tell <br></strong>
 	</td>
 </tr>
 <tr>
 	<td>12</td>
-	<td valign="top">April 20<br><br> <strong>Final Project: Working Prototype Due <br>
+	<td valign="top">Nov 23<br><br> <strong>Final Project: Working Prototype Due <br>
 	In-class critique <br></strong><br>Topics by request<br> Show & Tell <br>
 	</td>
-	<td valign="top">April 22<br><strong>Sound<br>Show & Tell<br></strong>
+	<td valign="top">Nov 25<br><strong>Sound<br>Show & Tell<br></strong>
 	</td>
 </tr>
 <tr>	
-	<td>13</td><td valign="top">April 27<br><strong>
+	<td>13</td><td valign="top">Nov 30<br><strong>
 	Final Project: Beta Version Due <br>In-class critique <br></strong>	
 	</td>
-	<td valign="top">April 29<br><strong>
+	<td valign="top">Dec 2<br><strong>
 		Code-swap + Bug Squashing <br>
 		Topics by Request <br></strong></td>	
 </tr>
 <tr>	
-	<td>14</td><td valign="top">May 4<br><strong>TBA</strong>
+	<td>14</td><td valign="top">Dec 7<br><strong>Final Critique</strong>
 	</td>
-	<td valign="top">May 6<br><strong>TBA</strong>
+	<td valign="top">Dec 10<br><strong>Final Critique</strong>
 	</td>
 </tr>
-<tr>	
-	<td>14</td><td valign="top">May 11<br><strong>ALL Final Presentations</strong>
+<tr><td>Finals Week</td>	
+	<td>14</td><td valign="top">Dec 16<br><strong>ALL Final Submissions Due by Noon</strong><br>Exams Submit Final Materials + Documents <br><a href = "Final_Deliverables.md">Final Self Assessment DUE by mightnight</a><br>Have a great break! Stay safe and healthy!<br></strong>
 	</td>
 <tr>
-	<td>Finals Week</td>
-	<td valign="top" colspan="2">May 14<br><strong>No on-campus meeting; Exams Submit Final Materials + Documents <br><a href = "Final_Deliverables.md">Final Self Assessment DUE by mightnight</a><br>Have a great summer!<br></strong>
-	</td>
-</tr>
 </table>
