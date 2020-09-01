@@ -30,7 +30,8 @@
 	DeBugger + Loops (review)<br>
 	Matrix Transformations <br>
 	In-Class challenge<br>
-	Functions + passing parameters
+	Functions + passing parameters <br>
+	P5.js Intro <br>
 	</td>
 <!-- homework -->
 <tr>

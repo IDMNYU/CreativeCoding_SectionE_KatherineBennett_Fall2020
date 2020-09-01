@@ -23,7 +23,6 @@
   Introduce Project 1<br>
   Object Orientated Programming <br>
   Methods<br>
-  Show + Tell <br>
 </td>
 	<!-- day Thurs -->
 	<td valign="top" width="48%">

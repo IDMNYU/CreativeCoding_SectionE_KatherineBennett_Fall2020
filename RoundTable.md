@@ -3,7 +3,7 @@
 
 # RoundTable Discussion Preparation 
 
-### Due November 12th via your Github repo for the final project
+### Due November 15th via your Github repo for the final project && upload your 3-4 minute presentation to (TBA)
 
 #### 5% of your final grade (2.5% research + presentation; 2.5% participation re: others' presentations and ideas)
  

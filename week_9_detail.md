@@ -45,11 +45,17 @@
   <td valign = "top">do</td>
 	<!-- day Tues -->
  	<td valign = "top"> 
- 		<a href = "Sketch_5.md"> Work on Sketch 6 </a> <br>
+ 		<a href = "Sketch_6.md"> Work on Sketch 6 </a> <br>
+  <a href = "RoundTable.md"> Work on Round Table Presentation </a> <br>Sketch your ideas for your final<br>
+    Research programming aspects necessary<br>  
+    Research other inspirations<br>
  	</td>
   	<!-- day Thurs -->
   	<td valign = "top">
-  		<a href = "Sketch_5.md"> Work on Sketch 6</a> <br>
+  		<a href = "Sketch_6.md"> Work on Sketch 6</a> <br>
+  <a href = "RoundTable.md"> Work on Round Table Presentation </a> <br>Sketch your ideas for your final<br>
+    Research programming aspects necessary<br>  
+    Research other inspirations<br>
   	</td>	
 </tr>
 </table>

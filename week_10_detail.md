@@ -21,10 +21,12 @@
 	<!-- day Tues -->
 	<td valign="top" width="48%">
 	Data<br> 
+  Roundtable feedback (asynchronous)<br>
 	</td>
 	<!-- day Thurs -->
 	<td valign="top" width="48%">
 		Data II <br>
+    Roundtable feedback (asynchronous)<br>
 	</td>
 <!-- homework -->
 <tr>

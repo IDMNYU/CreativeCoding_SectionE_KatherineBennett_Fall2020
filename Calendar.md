@@ -18,8 +18,8 @@
 </tr>
 <tr>
 	<td valign="top"> 2 </td>
-	<td valign="top"><a href="week_2_detail.md">Sept 14</a><br><strong>Control Statements<br>Operators<br>Code Blocks<br>Comments</strong></td>
-    <td valign="top"><a href="week_2_detail.md">Sept 16</a><br><strong>Sketch 1 Due<br>Turning in Assignments<br>
+	<td valign="top"><a href="week_2_detail.md">Sept 14</a><br><strong>Control Statements<br>Operators<br>Code Blocks<br>Comments <br> variables <br></strong></td>
+    <td valign="top"><a href="week_2_detail.md">Sept 16</a><br><strong>Sketch 1 Due - Sept 17<br>Turning in Assignments<br>
 	Loops<br>
 	Comments<br>
 	Variables (Review)<br>
@@ -28,11 +28,11 @@
 <tr>
 	<td valign="top"> 3 </td>
 	<td valign="top"><a href="week_3_detail.md">Sept 21</a><br><strong>Motion<br>Random<br>Functions<br>Print Statements<br>
-	Show & Tell<br></strong>
+	</strong>
 	</td>
 	<td valign="top"><a href="week_3_detail.md">Sept 23</a><br>DeBugger + Loops (review)<br>
 	Matrix Transformations <br>In-Class challenge<br>
-	Functions II <br>
+	Functions II - passing parameters <br>
 	Intro to P5 <br>
 	</td>
 </tr>
@@ -41,19 +41,19 @@
 	<td>4</td>
 	<td valign="top"><a href="week_4_detail.md">Sept 28</a><br><strong>Asynchrous & Remote <br> </strong>
 	</td>
-	<td valign="top"><a href="week_4_detail.md">Sept 30</a><br><strong>Asynchrous & Remote <br> Functions + passing parameters<br>Show & Tell<br></strong>
+	<td valign="top"><a href="week_4_detail.md">Sept 30</a><br><strong>Asynchrous & Remote <br> Functions + passing parameters<br></strong>
 	</td>
 </tr>
 <tr>
 	<td>5</td>
-	<td valign="top"><a href="week_5_detail.md">Oct 5</a><br>	<strong>Object Orientated Programming <br>Methods <br>Show & Tell <br></strong>
+	<td valign="top"><a href="week_5_detail.md">Oct 5</a><br>	<strong>Object Orientated Programming <br>Methods <br></strong>
 	<td valign="top"><a href="week_5_detail.md">Oct 7</a><br>
 		<strong>Object Orientated Programming <br>Passing Parameters <br>In-class Challenge <br></strong>
 	</td>
 </tr>
 <tr>
 	<td> 6 </td>
-	<td valign="top"><a href="week_6_detail.md">Oct 12</a><br><strong>Vectors<br></strong></td>
+	<td valign="top"><a href="week_6_detail.md">Oct 12</a><br><strong>OOP:Vectors<br></strong></td>
 	<td valign="top"><a href="week_6_detail.md">Oct 14</a><br><strong>Vectors </strong></td>
 </tr>
 <tr>
@@ -79,24 +79,24 @@
 </tr>
 <tr>
 	<td>10</td>
-	<td valign="top"> Nov 9<br><a href = "RoundTable.md"> Roundtable for Final Projects</a> <br>
+	<td valign="top"> Nov 9<br><Data><br><a href = "RoundTable.md"> Roundtable for Final Projects</a> <br>
 	</td>
-	<td valign="top">Nov 11<br><strong><a href = "RoundTable.md">Roundtable for Final Projects 	</a> </strong>
+	<td valign="top">Nov 11<br><Data><br><strong><a href = "RoundTable.md">Roundtable for Final Projects 	</a> </strong>
 	</td>	
 </tr>
 <tr>
 	<td>11</td>
-	<td valign="top">Nov 16<br><strong>Working with API's</strong>	
+	<td valign="top">Nov 16<br><strong>Working with API's<br> Roundtable Picks<br></strong>	
 	</td>
-	<td valign="top">Nov 18<br><strong>Physical Computing<br>Show & Tell <br></strong>
+	<td valign="top">Nov 18<br><strong>Physical Computing<br> Roundtable Picks<br></strong>
 	</td>
 </tr>
 <tr>
 	<td>12</td>
-	<td valign="top">Nov 23<br><br> <strong>Final Project: Working Prototype Due <br>
-	In-class critique <br></strong><br>Topics by request<br> Show & Tell <br>
+	<td valign="top">Nov 23<br><br> <strong>Final Project: Working ROUGH Prototype Due <br>
+	<br>Topics by request<br></strong>
 	</td>
-	<td valign="top">Nov 25<br><strong>Sound<br>Show & Tell<br></strong>
+	<td valign="top">Nov 25<br><strong>Sound<br>Topics by request<br></strong>
 	</td>
 </tr>
 <tr>	
