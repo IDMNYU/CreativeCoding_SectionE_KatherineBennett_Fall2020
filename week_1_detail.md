@@ -31,6 +31,7 @@
 	<strong>In-Class Exercise</strong>
 	<!-- day Wed -->
 	<td valign="top" width="48%">
+		<li> Watch: <a href="https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=2">Shiffman, Learning Processing 1-4 (including sub-videos, ie, 4.4, 4.6, etc)</li>
 		<li> overall structure: setup() and draw(). </li>
 		<li> drawing primitives: line(), ellipse(), rect(), etc </li>
 		<li> graphics state: strokeWeight(), stroke(), fill(), smooth().</li>
@@ -68,7 +69,6 @@
   	<td valign="top"> 
   	<li>Review Chapters 1 + 2 in the Learning Processing Book</li>
  	<li><a href = "Sketch_1.md"> Sketch 1</li>
- 	<li> Watch: <a href="https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=2">Shiffman, Learning Processing 1-4 (including sub-videos, ie, 4.4, 4.6, etc)</li>
  	</td>
 </tr>
 </table>
