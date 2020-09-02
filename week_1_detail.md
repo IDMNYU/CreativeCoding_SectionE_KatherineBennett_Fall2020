@@ -64,6 +64,7 @@
 		<li>Direct Message me on Slack, your Github handle (ie, GitHub name; NOT account login).</li>
  		<li>Install <a href = https://processing.org/download/>Processing</a>. </li> <li>Go through the examples in Processing and explore them.</li>
 	   <li> Install <a href = "http://www.sublimetext.com/"> Sublime </a></li>
+	   <li> Watch: <a href="https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=2">Shiffman, Learning Processing 1-4 (including sub-videos, ie, 4.4, 4.6, etc)</li>
  	</td>
   	<!-- day Thurs -->
   	<td valign="top"> 
