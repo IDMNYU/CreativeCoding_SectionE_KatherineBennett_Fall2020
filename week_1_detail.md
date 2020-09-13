@@ -23,7 +23,7 @@
 	<strong>Overview of Course</strong>
 	Links
 		<ul> 
-		<li> <a href= http://www.studygs.net/texred2.htm> SQ3R </a></li>
+		<li> <a href= https://en.wikipedia.org/wiki/SQ3R> SQ3R </a></li>
 		<li> <a href=https://en.wikipedia.org/wiki/Kanban_(development)#:~:text=Kanban%20(Japanese%20%E7%9C%8B%E6%9D%BF%2C%20signboard%20or,handling%20of%20system%2Dlevel%20bottlenecks.> KanBan system </a></li>
 		<li> <a href=http://selfcontrolapp.com/> Self Control </a></li>
 		<li> <a href=https://www.rescuetime.com/> Rescue Time </a></li>
