@@ -18,6 +18,7 @@
 <!-- class -->
 <tr>
 	<td valign="top">class</td>
+	<td valign="top" width="48%">
 	Matrix Transformations<br>
 	 P5<br>
 	Functions + passing parameters <br>
@@ -33,8 +34,6 @@
    </ol>
 	</td>
 	<!-- day Wed -->
-	<td valign="top" width="48%">
-	</td>
 	<td valign="top" width="48%">
      Discuss Sketch 3 <br>
      In-class Challenge <br>
