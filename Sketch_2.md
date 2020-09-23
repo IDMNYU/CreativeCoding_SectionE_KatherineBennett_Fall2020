@@ -5,7 +5,7 @@
 
 ### Interactive Repetition & Drawing: Modularity, Pattern
 
-#### Due Sept 24
+#### Due Sept 26 7:00 pm/19:00 EST
         
 
  Using 1 small line or small simple shape (ellipse), twist or turn it and position it within space. Repeat this process, changing the orientation and position, yet keeping it close to the previous shape. Repeat this process at least 3-5 more times. By the end, you should a clustered arrangement of similar shapes. Wrap this into a code block: either a for-loop or a simple function.
