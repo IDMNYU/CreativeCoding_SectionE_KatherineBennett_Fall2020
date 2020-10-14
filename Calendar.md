@@ -59,7 +59,7 @@
 <tr>
 	<td> 7 </td>
 	<td valign="top"><a href="week_7_detail.md">Oct 19</a><br><strong> Vectors + Forces<br></strong>	</td>
-	<td valign = "top"> <a href="week_7_detail.md">Oct 21</a><br><strong></td>Vectors + Steering <br> Images (introduction)<br>In-class Challenge <br></strong>
+	<td valign = "top"> <a href="week_7_detail.md">Oct 21</a><br><strong></td>Vectors + Steering <br> Images (introduction)<br>In-class Challenge <br></strong><td>
 </tr>
 <td>8</td>
 	<td valign="top"><a href="week_8_detail.md">Oct 26</a><br><strong>**MidTerm** <br>Project 1 Presentations <br></strong>
