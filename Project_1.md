@@ -8,6 +8,8 @@
 
 **20% of your final grade**
 
+Must be completed in p5.js
+
 Weekly pushes and development are expected
 
 Pick an adjective and make a program that illustrates that adjective interactively/responsively or by animation. Time is an element here. What we are seeing, must change over time. It is not a flat image. You may not use images nor pixels. You may not use text. Use only drawing functions, and things that create graphics. You are to illustrate this adjective over time. Think of it as a performance that unfolds and builds to reveal your adjective. You are to use expressive mark making as your tool.
