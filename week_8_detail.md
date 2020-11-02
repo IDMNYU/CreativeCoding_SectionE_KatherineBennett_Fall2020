@@ -46,11 +46,11 @@
   <td valign = "top">do</td>
 	<!-- day Tues -->
  	<td valign = "top"> 
- 		<a href = "Sketch_5.md"> Work on Sketch 5 </a> <br>		
+ 		<a href = "Sketch_4.md"> Work on Sketch 4 </a> <br>		
  	</td>
   	<!-- day Thurs -->
   	<td valign = "top">
-		<a href = "Sketch_5.md"> Work on Sketch 5 </a> <br>
+		<a href = "Sketch_4.md"> Work on Sketch 4 </a> <br>
   	</td>	
 </tr>
 </table>

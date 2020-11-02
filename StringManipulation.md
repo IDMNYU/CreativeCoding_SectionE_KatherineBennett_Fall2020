@@ -2,7 +2,7 @@
 ##### Fall 2020 • Katherine Bennett • Monday & Wednesdays • 2:00-3:50pm 
 
 
-Sketch 6 Choice: String Manipulations - Data Visualizations or Algorithmic Poems
+Sketch 4 Choice: String Manipulations - Data Visualizations or Algorithmic Poems
 
 
 1. take a story from [GutenBerg](https://www.gutenberg.org/browse/languages/en)

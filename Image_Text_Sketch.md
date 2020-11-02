@@ -1,7 +1,7 @@
 # DM-UY 1133-E Creative Coding
 ##### Fall 2020 • Katherine Bennett • Monday & Wednesdays • 2:00-3:50pm 
 
-#### Sketch 6: Text & Image
+#### Sketch 4: Text & Image
 
 Collage and Manipulation
 
