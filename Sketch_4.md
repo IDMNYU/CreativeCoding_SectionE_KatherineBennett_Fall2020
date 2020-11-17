@@ -3,7 +3,7 @@
 
 ## Sketch 4 - The People's Choice
 
-#### Due on November 19
+#### Due on November 23
 
 
 This sketch you have the opportunity to choose one of the following:
