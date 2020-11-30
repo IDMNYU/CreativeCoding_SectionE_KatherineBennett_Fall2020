@@ -7,9 +7,9 @@
 
 ## Dates: 
 
-### Working Prototype Due: Dec 2nd - Critiqued
-### Beta Version Due: Dec 7th - Critiqued
-### Alpha Version Due: Dec 9th inclass presentations
+### Working Prototype Due: Dec 2nd - feedback
+### Beta Version Due: Dec 5th - feedback
+### Alpha Version Due: Dec 7th in class presentations
 
 **Working Prototype:** All media should be gathered; basic functionality should be evident and working in your code. Code should be commented with pseudo code for future functionality. Use this deadline to conquer topics that you are struggling with.
 
