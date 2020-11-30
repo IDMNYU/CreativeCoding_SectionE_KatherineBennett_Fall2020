@@ -32,11 +32,11 @@ Using Word or another text editor, reflect on the following:
 
 • concept paragraph answering the following: What is your piece about? What's the concept? Is it interactive, responsive or time based?, name of piece
 
-• Direct message me the above documents and post them to your github repo for the final project.
+• Direct message me (SLACK) the above documents and post them to your github repo for the final project.
 
 
 • Submit any missing exercises to get credit for them. Post them to github and email me that they are up.
 
 
 
-# All of the above must be submitted by midnight on Tuesday Dec 15th
+# All of the above must be submitted by NOON on Dec 16th
