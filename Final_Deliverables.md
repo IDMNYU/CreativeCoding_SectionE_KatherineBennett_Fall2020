@@ -27,7 +27,7 @@ Using Word or another text editor, reflect on the following, **considering the e
 • ***How do you think you'll move forward with programming? will you keep doing it ? How does this relate to other classes you are either taking or wish to take?*** 
 
 
-# Letter to the Next Co-hort
+# Letter to the Next Cohort
 
 • Write a letter to the next class or create a 1-2 minute video (.mov, .mp4, etc), giving them advice on how to reach their learning goals and get value out of this course. Send me this document via Slack Direct message
 
